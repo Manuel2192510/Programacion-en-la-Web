@@ -1,0 +1,2 @@
+Proyecto SPA (implementado sobre el proyecto MPA Sumarec, donde se implementó un ajax con el lenguaje de etiquetado HTML,JS y PHP), se usa jquery y mysql 
+https://drive.google.com/file/d/16xweXilr2B7qBfvx_AbQwt6trQwGTH7r/view?usp=sharing
